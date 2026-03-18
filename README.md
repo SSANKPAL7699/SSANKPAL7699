@@ -18,7 +18,7 @@
 - 🏗️ I'm building **real-world projects** powered by cloud infrastructure to go beyond theory
 - 🧠 I'm diving deep into **System Design** — learning how to think like an architect, not just a coder
 - 💼 I'm open to **job opportunities, internships & collaborations**
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **shreyasankpal@gmail.com**
 - ⚡ Fun fact: **I think in loops 🔁 — my brain literally starts optimizing real-life problems like they're O(n²) waiting to be reduced to O(log n)**
 
 ---
