@@ -10,13 +10,16 @@
 
 ---
 
+
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Something you're learning]**
-- 💼 I'm open to **job opportunities and collaborations**
+- 🧩 I'm currently solving **Data Structures & Algorithms** — one problem at a time, every single day
+- ☁️ I'm learning **Cloud Computing** and exploring how the internet's backbone actually works
+- 🏗️ I'm building **real-world projects** powered by cloud infrastructure to go beyond theory
+- 🧠 I'm diving deep into **System Design** — learning how to think like an architect, not just a coder
+- 💼 I'm open to **job opportunities, internships & collaborations**
 - 📫 Reach me at: **your.email@example.com**
-- ⚡ Fun fact: **[Something interesting about you]**
+- ⚡ Fun fact: **I think in loops 🔁 — my brain literally starts optimizing real-life problems like they're O(n²) waiting to be reduced to O(log n)**
 
 ---
 
