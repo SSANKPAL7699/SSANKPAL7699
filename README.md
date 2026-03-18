@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:FFD43B&height=200&section=header&text=Hi%20There!%20I'm%20YOUR_NAME%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:FFD43B&height=200&section=header&text=Hi%20There!%20I'm%20SHREYA SANKPAL%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- Subtitle -->
