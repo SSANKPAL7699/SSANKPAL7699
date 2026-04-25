@@ -1,72 +1,98 @@
-<!-- Animated Banner -->
+<h1 align="center">Hi, I'm Shreya Sankpal 👋</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:FFD43B&height=200&section=header&text=Hi%20There!%20I'm%20SHREYA%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <b>MS Computer Science @ SUNY Binghamton (May 2026)</b><br/>
+  Backend Engineer · Data Engineering · Cloud/DevOps<br/>
+  Open to full-time roles starting Summer/Fall 2026
 </p>
 
-<!-- Subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Python+Developer;Problem+Solver;Continuous+Learner;Open+to+Opportunities" alt="Typing SVG" />
+  <a href="https://linkedin.com/in/shreya-sankpal-b5501118b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ssankpal@binghamton.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://ssankpal-universal-job-matcher.hf.space">
+    <img src="https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
+## 🙋‍♀️ About Me
 
-## 👨‍💻 About Me
-
-- 🧩 I'm currently solving **Data Structures & Algorithms** — one problem at a time, every single day
-- ☁️ I'm learning **Cloud Computing** and exploring how the internet's backbone actually works
-- 🏗️ I'm building **real-world projects** powered by cloud infrastructure to go beyond theory
-- 🧠 I'm diving deep into **System Design** — learning how to think like an architect, not just a coder
-- 💼 I'm open to **job opportunities, internships & collaborations**
-- 📫 Reach me at: **shreyasankpal@gmail.com**
-- ⚡ Fun fact: **I think in loops 🔁 — my brain literally starts optimizing real-life problems like they're O(n²) waiting to be reduced to O(log n)**
+- 🎓 MS CS student at **SUNY Binghamton**, graduating May 2026
+- 💼 5+ years of experience across **backend development**, **SAP enterprise systems**, and **cloud deployments**
+- 🚀 I build and ship — both my projects are fully deployed and live
+- 🌱 Currently deepening skills in **system design**, **distributed systems**, and **AWS**
+- 🔍 Actively seeking full-time roles in **Backend SWE**, **Data Engineering**, or **Cloud/DevOps**
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SAP ABAP](https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+
+**Frameworks & Libraries**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔍 [Universal Job Skill Matcher](https://github.com/SSANKPAL7699/job-skill-matcher)
+> Resume-to-job-description matching engine across 10 career fields
+
+- Built with **FastAPI**, **scikit-learn** TF-IDF cosine similarity, **Docker**, **GitHub Actions**
+- Supports 300+ curated skill keywords with auto field detection and confidence scoring
+- 🌐 **[Live Demo](https://ssankpal-universal-job-matcher.hf.space)** — deployed on Hugging Face Spaces
+
+---
+
+### 📊 [SmartFlow ERP Analytics Platform](https://github.com/SSANKPAL7699/smartflow-erp)
+> End-to-end ERP analytics platform with real-time enterprise data processing
+
+- Built with **FastAPI**, **PostgreSQL**, **Streamlit**, **Docker Compose**, **AWS (EC2, S3)**
+- SAP data pipeline integration with KPI dashboards for procurement, inventory, and vendor metrics
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SSANKPAL7699&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSANKPAL7699&layout=compact&theme=default&hide_border=true" height="150"/>
 </p>
 
 ---
 
-**Cloud & Infrastructure**
-<p align="left">
-  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SSANKPAL7699&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=&theme=tokyonSHREYA SANKPALight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-<!-- Footer Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD43B,100:3776AB&height=100&section=footer" />
+  <i>Always building, always learning.</i>
 </p>
