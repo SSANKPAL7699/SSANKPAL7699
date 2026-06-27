@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi, I'm Shreya Sankpal 👋</h1>
 
 <p align="center">
@@ -27,13 +28,6 @@
 - 🚀 I build and ship — both featured projects below are fully deployed and live
 - 🌱 Currently studying **AWS (Cloud Practitioner → SAA-C03)**, **Microsoft Azure AI Fundamentals (AI-901)**, and **system design** (caching, CDNs, rate limiting, distributed systems)
 - 🔍 Actively seeking full-time roles in **Backend SWE**, **Cloud/DevOps**, or **Data Engineering**
-
----
-
-## 📜 Certifications (In Progress)
-
-![AI-900](https://img.shields.io/badge/Azure%20AI%20Fundamentals%20(AI--900)-In%20Progress-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS CCP](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-Planned-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
 
@@ -96,7 +90,7 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcode-stats-card-placeholder.vercel.app/api?username=YOUR_LEETCODE_USERNAME" height="150"/>
+  <img src="https://leetcode-stats-card.vercel.app/api?username=shreyasankpal" height="150"/>
 </p>
 
 ---
